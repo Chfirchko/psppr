@@ -8,6 +8,7 @@ m1 = [1, 1]
 m2 = [2, 1]
 k = 2
 for zxc in range(0, 3):
+
     tab = []
     table = []
     for i in range(0, len(ar)):

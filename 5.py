@@ -40,3 +40,10 @@ plt.xlabel("x")
 plt.ylabel("Sigmoid(X)")
   
 plt.show()
+
+
+#---------------------------------------------------------------------------------------
+
+
+plt.plot(*zip(*weights), marker='o', color='r', ls='')
+plt.show()
